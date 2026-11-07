@@ -10,7 +10,7 @@ The two methods were evaluated on a separate one-minute soccer video provided th
 ## Repository Structure
 
 ```text
-Miniprojekt_Submission/
+Advanced-Robotic-Perception-Mini-Project
 │
 ├── Code/
 │   ├── traditional_detector_codex.py
@@ -25,9 +25,6 @@ Miniprojekt_Submission/
 │
 ├── Annotations/
 │   └── evaluation_annotations.zip
-│
-└── Report/
-    └── report.pdf
 ```
 
 ## 1. Traditional Computer Vision
